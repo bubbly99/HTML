@@ -1,4 +1,4 @@
 # HTML
 
-Css Prefernce Heirarchy
+Css Prefernce Heirarchy -----
 Element tag < class < id < inline
